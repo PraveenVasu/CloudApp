@@ -11,6 +11,13 @@
    "express" :"*",
    "cors" :"*"
   },
+  "engines": {
+    "node": "6.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PraveenVasu/CloudApp"
+  },
   "author": "Vasu",
   "license": "ISC"
 }
