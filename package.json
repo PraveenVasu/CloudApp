@@ -1,0 +1,15 @@
+{
+  "name": "firstcloud",
+  "version": "1.0.0",
+  "description": "RishikasApplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "dependencies":{
+   "express" :"*",
+   "cors" :"*"
+  },
+  "author": "Vasu",
+  "license": "ISC"
+}
